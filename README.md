@@ -38,3 +38,8 @@ Fit_1D_GMM.m is a MATLAB script built on MATLAB R2019a, which requires _fitgmdis
 ## References
 
 1. McLachlan, G., and D. Peel. Finite Mixture Models. Hoboken, NJ: John Wiley & Sons, Inc., 2000.
+
+
+## Authors
+
+* Milana Popara
